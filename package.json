@@ -1,6 +1,6 @@
 {
   "name": "grunt-flag-sprite",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Grunt plugin generating national flag sprites",
   "main": "Gruntfile.js",
   "repository": {
