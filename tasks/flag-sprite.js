@@ -14,12 +14,12 @@ var path = require('path'),
     allowedFormats = ['1x1', '4x3'];
 
 module.exports = function (grunt) {
-    grunt.registerMultiTask('flag-sprite', '', function () {
+    grunt.registerMultiTask('flag_sprite', '', function () {
         var flagpath = 'node_modules/flag-svg-collection/flags/',
             options = this.options(),
             flags = options.flags,
             format = options.format;
-        if (!flags || flags.length == 0) {
+        if (!flags || flags.length === 0) {
             grunt.fail.warn('Incorrect flags. Set flags array.');
         }
         if (!format || allowedFormats.indexOf(format) < 0) {
@@ -29,7 +29,7 @@ module.exports = function (grunt) {
         // validate format: either 1x1 or 4x3
         // validate flags: exist
         var sources = flags.map(function(flag) {
-            return path.normalize(flagpath + format + '/' + flag + '.svg')
+            return path.normalize(flagpath + format + '/' + flag + '.svg');
         });
         grunt.log.oklns('Generating sprite for flags: ' + flags.join(', '));
 
