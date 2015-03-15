@@ -1,4 +1,4 @@
-# grunt-flag-sprite v0.1.1
+# grunt-flag-sprite v0.1.1 [![Build Status: Linux](https://travis-ci.org/tkoomzaaskz/grunt-flag-sprite.svg?branch=master)](https://travis-ci.org/tkoomzaaskz/grunt-flag-sprite)
 
 > Grunt plugin generating national flag sprites
 
@@ -44,11 +44,11 @@ _work-in-progress_
 
 ## Release History
 
- * 2015-03-13   v0.1.1   Jshint testing added. Grunt-contrib-internal standard used to build.
+ * 2015-03-13   v0.1.1   Travis tests. Jshint testing added. Grunt-contrib-internal standard used to build.
  * 2015-03-08   v0.1.0   First release (unofficial).
 
 ---
 
 Task submitted by [Tomasz Ducin](http://ducin.it)
 
-*This file was generated on Sun Mar 15 2015 13:22:14.*
+*This file was generated on Sun Mar 15 2015 13:24:49.*

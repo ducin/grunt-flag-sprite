@@ -1,6 +1,7 @@
 v0.1.1:
   date: 2015-03-13
   changes:
+    - Travis tests.
     - Jshint testing added.
     - Grunt-contrib-internal standard used to build.
 v0.1.0:
