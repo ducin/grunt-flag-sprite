@@ -1,4 +1,4 @@
-# grunt-flag-sprite v0.1.1 [![Build Status: Linux](https://travis-ci.org/tkoomzaaskz/grunt-flag-sprite.svg?branch=master)](https://travis-ci.org/tkoomzaaskz/grunt-flag-sprite)
+# grunt-flag-sprite v0.1.2 [![Build Status: Linux](https://travis-ci.org/ducin/grunt-flag-sprite.svg?branch=master)](https://travis-ci.org/ducin/grunt-flag-sprite)
 
 > Grunt plugin generating national flag sprites
 
@@ -29,7 +29,8 @@ Task targets, files and options may be specified according to the grunt [Configu
 
 [![grunt-flag-sprite npm module](https://nodei.co/npm/grunt-flag-sprite.png?downloads=true&stars=true "grunt-flag-sprite npm module")](https://www.npmjs.com/package/grunt-flag-sprite)
 
-![grunt-flag-sprite dependency status](https://david-dm.org/tkoomzaaskz/grunt-flag-sprite.png "grunt-flag-sprite dependency status")
+[![Dependency Status](https://david-dm.org/ducin/grunt-flag-sprite/status.svg)](https://david-dm.org/ducin/grunt-flag-sprite)
+[![devDependency Status](https://david-dm.org/ducin/grunt-flag-sprite/dev-status.svg)](https://david-dm.org/ducin/grunt-flag-sprite#info=devDependencies)
 
 _work-in-progress_
 
@@ -44,11 +45,12 @@ _work-in-progress_
 
 ## Release History
 
- * 2015-03-13   v0.1.1   Travis tests. Jshint testing added. Grunt-contrib-internal standard used to build.
+ * 2015-06-07   v0.1.2   Moving ownership (user rename) tkoomzaaskz:ducin
+ * 2015-03-13   v0.1.1   Travis tests. Jshint testing added.
  * 2015-03-08   v0.1.0   First release (unofficial).
 
 ---
 
 Task submitted by [Tomasz Ducin](http://ducin.it)
 
-*This file was generated on Sun Mar 15 2015 13:24:49.*
+*This file was generated on Sun Jun 07 2015 01:09:56.*

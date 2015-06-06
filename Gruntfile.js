@@ -1,6 +1,6 @@
 /*
  * grunt-flag-sprite
- * https://github.com/tkoomzaaskz/grunt-flag-sprite
+ * https://github.com/ducin/grunt-flag-sprite
  *
  * Copyright (c) 2015 Tomasz Ducin
  * Licensed under the MIT license.

@@ -1,9 +1,12 @@
+v0.1.2:
+  date: 2015-06-07
+  changes:
+    - Moving ownership (user rename) tkoomzaaskz:ducin
 v0.1.1:
   date: 2015-03-13
   changes:
     - Travis tests.
     - Jshint testing added.
-    - Grunt-contrib-internal standard used to build.
 v0.1.0:
   date: 2015-03-08
   changes:

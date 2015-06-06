@@ -1,16 +1,16 @@
 {
   "name": "grunt-flag-sprite",
   "description": "Grunt plugin generating national flag sprites",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tkoomzaaskz/grunt-flag-sprite.git"
+    "url": "https://github.com/ducin/grunt-flag-sprite.git"
   },
   "bugs": {
-    "url": "https://github.com/tkoomzaaskz/grunt-flag-sprite/issues"
+    "url": "https://github.com/ducin/grunt-flag-sprite/issues"
   },
-  "homepage": "https://github.com/tkoomzaaskz/grunt-flag-sprite",
+  "homepage": "https://github.com/ducin/grunt-flag-sprite",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
@@ -19,10 +19,10 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "flag-svg-collection": "^1.0.0",
+    "flag-svg-collection": "^1.0.3",
     "grunt-contrib-internal": "^0.4.12",
-    "grunt-contrib-jshint": "^0.11.0",
-    "grunt-svg-sprite": "^1.0.19"
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-svg-sprite": "^1.2.2"
   },
   "peerDependencies": {
     "grunt": "^0.4.5"

@@ -3,11 +3,11 @@
 /**
  * grunt-flag-sprite is a Grunt plugin for generating national flag sprites
  *
- * @see https://github.com/tkoomzaaskz/grunt-flag-sprite
+ * @see https://github.com/ducin/grunt-flag-sprite
  *
- * @author Tomasz Ducin <tomasz.ducin@gmail.com> (https://github.com/tkoomzaaskz)
+ * @author Tomasz Ducin <tomasz.ducin@gmail.com> (https://github.com/ducin)
  * @copyright © 2015 Tomasz Ducin
- * @license MIT https://raw.github.com/tkoomzaaskz/grunt-flag-sprite/master/LICENSE
+ * @license MIT https://raw.github.com/ducin/grunt-flag-sprite/master/LICENSE
  */
 
 var path = require('path'),
